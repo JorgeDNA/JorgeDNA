@@ -1,132 +1,125 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,23,28,30&height=300&section=header&text=Jorge%20Montero&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DNA&descAlignY=58&descAlign=50"/>
+
 <div align="center">
 
-<!-- Header animado -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hola%2C+soy+Jorge+Montero+%F0%9F%91%8B;Full+Stack+Developer;Bienvenido+a+mi+perfil!)](https://git.io/typing-svg)
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=100&lines=%F0%9F%9A%80+Transformando+ideas+en+c%C3%B3digo;%F0%9F%92%BB+Apasionado+por+crear+soluciones+innovadoras" alt="Typing SVG" /></a>
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jorge%20Montero&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<br/>
 
-<!-- Badges de visitas y seguidores -->
-![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&color=6C63FF&style=for-the-badge&label=VISITAS+AL+PERFIL)
-[![GitHub followers](https://img.shields.io/github/followers/tu-usuario?logo=GitHub&style=for-the-badge&color=6C63FF)](https://github.com/tu-usuario)
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/-Jorge_Montero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin)
+[![GitHub](https://img.shields.io/badge/-JorgeDNA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JorgeDNA)
+[![Email](https://img.shields.io/badge/-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@email.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=JorgeDNA&color=00D9FF&style=flat-square&label=Visitantes)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre Mí
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```javascript
-const jorgeMontero = {
-    ubicacion: "DNA",
-    rol: "Full Stack Developer",
-    lenguajes: ["JavaScript", "TypeScript", "Python", "Java"],
-    tecnologias: {
-        frontend: ["React", "Next.js", "Vue.js", "Angular"],
-        backend: ["Node.js", "Express", "NestJS", "Spring Boot"],
-        database: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-        cloud: ["AWS", "Azure", "Docker", "Kubernetes"],
-        tools: ["Git", "GitHub Actions", "Jenkins", "Jira"]
-    },
-    arquitectura: ["Microservicios", "Event-Driven", "Serverless"],
-    aprendiendo: "Siempre algo nuevo cada día",
-    frase: "El código limpio siempre parece que fue escrito por alguien que le importa."
-};
-```
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Sobre Mí
+
+<br/>
+
+- <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="17" /> Actualmente trabajo en **DNA**
+
+- <img src="https://user-images.githubusercontent.com/74038190/216124356-9c69f4fe-1c1d-40cb-8560-87567f5bbb61.png" width="17" /> Me especializo en **Full Stack Development**
+
+- <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="17" /> Apasionado por **crear soluciones escalables**
+
+- <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="17" /> Siempre aprendiendo **nuevas tecnologías**
+
+<br clear="both"/>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> Tech Stack
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+<table>
+<tr>
+<td align="center" width="33%">
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Frontend
 
-### Base de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,tailwind,html,css&perline=3" />
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+</td>
+<td align="center" width="33%">
 
-### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30" /> Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,java,spring&perline=3" />
+
+</td>
+<td align="center" width="33%">
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" /> Database
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase&perline=3" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" /> DevOps & Herramientas
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,git,github,githubactions,vscode,figma&perline=5" />
 
 </div>
 
 ---
 
-
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Conecta Conmigo
+## <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width="30" /> GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=About.me&logoColor=white)](https://tu-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@email.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-twitter)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JorgeDNA&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=JorgeDNA&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+
+<br/><br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDNA&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JorgeDNA&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&custom_title=Contribuciones%20de%20Jorge"/>
 
 </div>
 
 ---
 
+## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30" /> Proyectos Destacados
+
 <div align="center">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Actualmente trabajando en **DNA**
-
-<br>
-
-```text
-"Primero resuelve el problema. Después, escribe el código."
-                                        - John Johnson
-```
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeDNA&repo=tu-repo-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/JorgeDNA/tu-repo-1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeDNA&repo=tu-repo-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/JorgeDNA/tu-repo-2)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+### <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010571.png" width="30" /> Trabajando en DNA
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=El%20c%C3%B3digo%20es%20poes%C3%ADa%20escrita%20para%20que%20las%20m%C3%A1quinas%20la%20entiendan.&author=Jorge%20Montero"/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,28,30&height=120&section=footer"/>
